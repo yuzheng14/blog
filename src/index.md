@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 阅读
-      link: /markdown-examples
+      link: /typescript/language-service-plugin
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
